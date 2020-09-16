@@ -525,6 +525,10 @@ footer{
         align-items: center;
     }
 
+    .reflexo img{
+        width: 100%;
+    }
+
     /*CONSEQUENCIAS DAS DESIGUALDADES*/
 
     .container-cards{
@@ -577,6 +581,10 @@ footer{
         flex-direction: column;
         margin: none;
         align-items: center;
+    }
+
+    .ideia img{
+        width: 100%;
     }
 
 
