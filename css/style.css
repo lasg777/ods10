@@ -432,6 +432,7 @@ footer{
     /*HEADER*/
 
     
+    
 
     .menu-nav{
         flex-direction: column;
@@ -454,6 +455,7 @@ footer{
     /*CAPA*/
     .capa{
         min-height: 90vh;
+        margin-bottom: 0px 0px;
     }
     .capa h1{
         font-size: 50px;
@@ -474,6 +476,7 @@ footer{
         flex-direction: column;
         align-items: center;
         padding: 0px;
+        margin-bottom: 0px 0px;
 
         display: none;
     }
@@ -500,6 +503,7 @@ footer{
         flex-direction: column;
         margin: none;
         align-items: center;
+        margin-bottom: 0px 0px;
     }
 
     .sobre-projeto{
@@ -523,6 +527,7 @@ footer{
         flex-direction: column;
         margin: none;
         align-items: center;
+        margin-bottom: 0px 0px;
     }
 
     .reflexo img{
@@ -535,6 +540,7 @@ footer{
         flex-direction: column;
         align-items: center;
         flex-wrap: wrap;
+        margin-bottom: 0px 0px;
     }
 
 
@@ -547,6 +553,7 @@ footer{
         margin: none;
         align-items: center;
         max-width: 100%;
+        margin-bottom: 0px 0px;
         
     }
 
@@ -577,6 +584,7 @@ footer{
         flex-direction: column;
         align-items: center;
         margin: none;
+        margin-bottom: 0px 0px;
 
     }
 
@@ -586,6 +594,7 @@ footer{
         flex-direction: column;
         margin: none;
         align-items: center;
+        margin-bottom: 0px 0px;
     }
 
     .ideia img{
@@ -596,6 +605,7 @@ footer{
     /*SOBRE MIM*/
     .sobre{
         flex-direction: column;
+        margin-bottom: 0px 0px;
     }
 
     .sobremim{
